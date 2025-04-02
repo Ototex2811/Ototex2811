@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Ototex2811
-- 👀 I’m a Geospatial Scientist, interested in geospatial data analytics using Python, R and SQL
-- 🌱 I’m currently carryingout research on urban climate systems at the ITC, Enschede
-- 💞️ I’m looking to collaborate on developing deep learning models/algorithms for Urban climate systems and hydrogeodetic models
-- 📫 You can reach me on kingso4heaven@gmail.com
-- 😄 Pronouns: I am a He and i'm Him
-- ⚡ Fun fact: ...
+Welcome to my project and research portfolio! I am a Registered Land Surveyor and Geomatics Engineer currently pursuing my MSc in Geo-Information Science and Earth Observation at ITC, University of Twente. My work combines surveying, hydrography, remote sensing, environmental modeling, and geospatial analytics.
 
-<!---
-Ototex2811/Ototex2811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Current Research
+- **Phenological Modeling Using Hybrid Machine Learning and Process-Based Methods**
+  - Predicting onset of leaf-out in temperate ecosystems using historical climate and phenological records.
+  - Integrated XGBoost, Random Forest, and a calibrated Process-Based Model (PBM).
+  - Tools: Python, Scikit-learn, XGBoost, Geopandas
+
+## 📐 Surveying & Hydrography Projects
+- Topographic survey planning and execution (Total Station, GNSS, RTK, UAS (LiDAR))
+- Bathymetric mapping and processing with Echo Sounders
+- Geospatial data integration with GIS software
+
+## 📊 Geospatial & Environmental Analytics
+- Land use and change detection using satellite imagery
+- Climate time-series analysis and trend extraction (e.g., GDD, chilling hours)
+- Automated workflows for processing field and EO data
+
+## 🛠 Tools & Skills
+- Python (Pandas, NumPy, Matplotlib, Geopandas, Rasterio)
+- QGIS, ArcGIS, AutoCAD Civil 3D
+- Remote Sensing (Sentinel, MODIS, Landsat)
+- Machine Learning (Random Forest, LightGBM, XGBoost)
